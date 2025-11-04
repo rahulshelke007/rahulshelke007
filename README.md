@@ -5,8 +5,6 @@
 
 - 🔭 I completed music player with my group [Rhythm wave](https://gorgeous-panda-ce5982.netlify.app/)
 
-- 🌱 I’m currently learning **Oracle, Java**
-
 - 👨‍💻 All of my projects are available at [https://github.com/rahulshelke007](https://github.com/rahulshelke007)
 
 - 💬 Ask me about **C programming language, Front-end**
